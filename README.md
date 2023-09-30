@@ -1,6 +1,6 @@
 # PagePal
 
-#### Get app: https://pagepal-reader.netlify.app/
+#### Get app: https://comic-reader-ajith.netlify.app/
 
 ## A Comic reader flutter app.
 
